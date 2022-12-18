@@ -1,0 +1,3 @@
+C:/Users/Mehrael Ashraf/CLionProjects/gsp/cmake-build-debug/CMakeFiles/gsp.dir
+C:/Users/Mehrael Ashraf/CLionProjects/gsp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mehrael Ashraf/CLionProjects/gsp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
